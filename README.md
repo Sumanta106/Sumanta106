@@ -18,4 +18,4 @@ Hi there 👋
 - I'm Sumanta Thakuri,
 - a passionate IT student from Nepal 🇳🇵,
 - 📫 How to reach me: thakurisumanta@gmail.com
-- ⚡ Fun fact: i am in love with coding💻, drawing 🖌️, and anime 🦊.
+- ⚡ Fun fact: i am in love with coding💻, playing football,basketball,online games as well{pubg mobile,mobile legend bang bang, and anime 🦊.
