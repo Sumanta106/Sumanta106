@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Hi there 👋
 - - I'm a passionate IT student from Nepal 🇳🇵,
 - 📫 How to reach me: thakurisumanta@gmail.com
-- ⚡ things i'm in love with :, and .
+- ⚡ things i'm in love with :
            . Coding💻
            . Playing football,basketball,online games as well [Pubg Mobile & Mobile Legend Bang Bang]
            . Watching anime 🦊
