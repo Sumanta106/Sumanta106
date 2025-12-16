@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi there 👋
-- I'm Sumanta Thakuri,
-- a passionate IT student from Nepal 🇳🇵,
+- - I'm a passionate IT student from Nepal 🇳🇵,
 - 📫 How to reach me: thakurisumanta@gmail.com
-- ⚡ Fun fact: i am in love with coding💻, playing football,basketball,online games as well{pubg mobile,mobile legend bang bang, and anime 🦊.
+- ⚡ things i'm in love with :, and .
+           . Coding💻
+           . Playing football,basketball,online games as well [Pubg Mobile & Mobile Legend Bang Bang]
+           . Watching anime 🦊
+           . Travelling 
