@@ -1,24 +1,41 @@
-## Hi there 👋
+## 👋 Hi there, I'm **Sumanta Thakuri**
 
-<!--
-**Sumanta106/Sumanta106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 A passionate **IT student from Nepal 🇳🇵**  
+💡 Curious about technology, problem-solving, and continuous learning  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Hi there 👋
-- - I'm a passionate IT student from Nepal 🇳🇵,
-- 📫 How to reach me: thakurisumanta@gmail.com
-- ⚡ things i'm in love with :
-           . Coding💻
-           . Playing football,basketball,online games as well [Pubg Mobile & Mobile Legend Bang Bang]
-           . Watching anime 🦊
-           . Travelling 
+### 🚀 About Me
+- 🌱 Currently learning **Web Development & Programming**
+- 💻 Love building things with **clean & efficient code**
+- 🤝 Open to **collaboration and teamwork**
+- 🎯 Aspiring **Software Developer**
+
+---
+
+### ❤️ Things I’m in Love With
+- 💻 Coding  
+- ⚽ Football & Basketball  
+- 🎮 Online Games *(PUBG Mobile, Mobile Legends: Bang Bang)*  
+- 🦊 Watching Anime  
+- ✈️ Travelling  
+
+---
+
+### 📫 How to Reach Me
+- 📧 **Email:** thakurisumanta@gmail.com
+
+---
+
+### ⚡ Fun Fact
+> I believe good code is like good anime — well-structured and engaging 😄
+
+---
+
+## 🛠️ Skills & Tools
+
+
+
+---
+
+⭐ *Thanks for visiting my GitHub profile!*
