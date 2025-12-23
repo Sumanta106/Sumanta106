@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm **Sumanta Thakuri**
+## 👋 Hi there, I'm ** Tribikram Singh Thakuri**
 
 🎓 A passionate **IT student from Nepal 🇳🇵**  
 💡 Curious about technology, problem-solving, and continuous learning  
@@ -32,10 +32,6 @@
 
 ---
 
-## 🛠️ Skills & Tools
-
-
-
----
-
+🔥 Skills & Tools
+<p> <img src="https://img.shields.io/badge/Code-C%20/%20C++-blue?logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/Frontend-HTML%20/%20CSS%20/%20JS-orange?logo=javascript" /> <img src="https://img.shields.io/badge/Framework-React-blue?logo=react" /> <img src="https://img.shields.io/badge/Backend-Blazor-purple?logo=dotnet" /> <img src="https://img.shields.io/badge/Database-SQL-green?logo=postgresql" /> </p>
 ⭐ *Thanks for visiting my GitHub profile!*
